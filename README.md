@@ -27,35 +27,35 @@ This dashboard was built using the following tools and technologies:
 
 ## Explanation of Charts
 
-### Attrition by Education Field (Donut Chart)
+### 1. Attrition by Education Field (Donut Chart)
 
 Shows the distribution of attrition across education backgrounds.
 **Insight:**
 1. Most attrition happens in Life Sciences (38%) and Medical (27%) fields, which together make up two-thirds of total attrition.
 2. HR can investigate whether career development or job satisfaction issues are higher in these groups.
 
-## Attrition by Age (Bar Chart)
+### 2. Attrition by Age (Bar Chart)
 
 Displays how many employees left based on age groups.
 **Insight:**
 1. Employees aged 26–35 have the highest attrition (116 employees). Younger employees (18–25) also have a significant number (44).
 2. This indicates that early-career professionals are more likely to leave, possibly for better opportunities.
 
-## Attrition by Salary Slab (Horizontal Bar Chart)
+### 3. Attrition by Salary Slab (Horizontal Bar Chart)
 
 Breaks down attrition by salary brackets.
 **Insight:**
 1. Employees earning up to 5K salary have the highest attrition (163 employees). Attrition drops drastically as salary increases.
 2. This shows that low pay is a key driver of attrition.
 
-## Attrition by Years at Company (Line Chart)
+### 4. Attrition by Years at Company (Line Chart)
 
 Tracks attrition across employee tenure.
 **Insight:** 
 1. Attrition is highest in the first 1–2 years (peaks at 23 employees in year 1). It reduces significantly in mid-tenure and slightly rises again around year 10.
 2. Suggests that new hires are most at risk of leaving if not properly engaged or onboarded.
 
-## Attrition by Job Role (Horizontal Bar Chart)
+### 5. Attrition by Job Role (Horizontal Bar Chart)
 
 Highlights which job roles face the most attrition.
 **Insight:**
@@ -65,14 +65,14 @@ Highlights which job roles face the most attrition.
 4. Sales Representative (33)
 These roles show higher instability and may require tailored retention programs.
 
-## Attrition by Gender (Stacked Column Chart)
+### 6. Attrition by Gender (Stacked Column Chart)
 
 Compares male vs female attrition.
 **Insight:**
 1. Attrition is higher among males (140) compared to females (79).
 2. HR can explore whether job expectations, work-life balance, or industry norms are influencing this.
 
-## Attrition by Department & Job Role Matrix (Table)
+### 7. Attrition by Department & Job Role Matrix (Table)
 
 A detailed grid showing attrition counts across different departments and roles.
 **Insight:**

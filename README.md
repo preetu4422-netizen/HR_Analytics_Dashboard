@@ -27,59 +27,59 @@ This dashboard was built using the following tools and technologies:
 
 ## Explanation of Charts
 
-1. **Attrition by Education Field (Donut Chart)**
+## Attrition by Education Field (Donut Chart)
 
 Shows the distribution of attrition across education backgrounds.
 **Insight:**
-    1. Most attrition happens in Life Sciences (38%) and Medical (27%) fields, which together make up two-thirds of total attrition.
-    2. HR can investigate whether career development or job satisfaction issues are higher in these groups.
+1. Most attrition happens in Life Sciences (38%) and Medical (27%) fields, which together make up two-thirds of total attrition.
+2. HR can investigate whether career development or job satisfaction issues are higher in these groups.
 
-2. **Attrition by Age (Bar Chart)**
+## Attrition by Age (Bar Chart)
 
 Displays how many employees left based on age groups.
 **Insight:**
-    1. Employees aged 26–35 have the highest attrition (116 employees). Younger employees (18–25) also have a significant number (44).
-    2. This indicates that early-career professionals are more likely to leave, possibly for better opportunities.
+1. Employees aged 26–35 have the highest attrition (116 employees). Younger employees (18–25) also have a significant number (44).
+2. This indicates that early-career professionals are more likely to leave, possibly for better opportunities.
 
-3. **Attrition by Salary Slab (Horizontal Bar Chart)**
+## Attrition by Salary Slab (Horizontal Bar Chart)
 
 Breaks down attrition by salary brackets.
 **Insight:**
-    1. Employees earning up to 5K salary have the highest attrition (163 employees). Attrition drops drastically as salary increases.
-    2. This shows that low pay is a key driver of attrition.
+1. Employees earning up to 5K salary have the highest attrition (163 employees). Attrition drops drastically as salary increases.
+2. This shows that low pay is a key driver of attrition.
 
-4. **Attrition by Years at Company (Line Chart)**
+## Attrition by Years at Company (Line Chart)
 
 Tracks attrition across employee tenure.
 **Insight:** 
-    1. Attrition is highest in the first 1–2 years (peaks at 23 employees in year 1). It reduces significantly in mid-tenure and slightly rises again around year 10.
-    2. Suggests that new hires are most at risk of leaving if not properly engaged or onboarded.
+1. Attrition is highest in the first 1–2 years (peaks at 23 employees in year 1). It reduces significantly in mid-tenure and slightly rises again around year 10.
+2. Suggests that new hires are most at risk of leaving if not properly engaged or onboarded.
 
-5. **Attrition by Job Role (Horizontal Bar Chart)**
+## Attrition by Job Role (Horizontal Bar Chart)
 
 Highlights which job roles face the most attrition.
 **Insight:**
-    1. Laboratory Technician (62)
-    2. Sales Executive (57)
-    3. Research Scientist (47)
-    4. Sales Representative (33)
+1. Laboratory Technician (62)
+2. Sales Executive (57)
+3. Research Scientist (47)
+4. Sales Representative (33)
 These roles show higher instability and may require tailored retention programs.
 
-6. **Attrition by Gender (Stacked Column Chart)**
+## Attrition by Gender (Stacked Column Chart)
 
 Compares male vs female attrition.
 **Insight:**
-    1. Attrition is higher among males (140) compared to females (79).
-    2. HR can explore whether job expectations, work-life balance, or industry norms are influencing this.
+1. Attrition is higher among males (140) compared to females (79).
+2. HR can explore whether job expectations, work-life balance, or industry norms are influencing this.
 
-7. **Attrition by Department & Job Role Matrix (Table)**
+## Attrition by Department & Job Role Matrix (Table)
 
 A detailed grid showing attrition counts across different departments and roles.
 **Insight:**
-    1. Laboratory Technicians (62) stand out in R&D.
-    2. Sales Executives (57) in Sales show high attrition.
-    3. Human Resources and Managers have lower attrition.
-    4. Helps identify which departments need the most retention focus.
+1. Laboratory Technicians (62) stand out in R&D.
+2. Sales Executives (57) in Sales show high attrition.
+3. Human Resources and Managers have lower attrition.
+4. Helps identify which departments need the most retention focus.
 
 ## Insights for HR Actions
 

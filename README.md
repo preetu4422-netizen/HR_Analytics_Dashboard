@@ -29,8 +29,8 @@ This dashboard was built using the following tools and technologies:
 
 ### 1. Attrition by Education Field (Donut Chart)
 
-Shows the distribution of attrition across education backgrounds.< br / >
-**Insight:**
+Shows the distribution of attrition across education backgrounds.
+< br / > **Insight:**
 1. Most attrition happens in Life Sciences (38%) and Medical (27%) fields, which together make up two-thirds of total attrition.
 2. HR can investigate whether career development or job satisfaction issues are higher in these groups.
 

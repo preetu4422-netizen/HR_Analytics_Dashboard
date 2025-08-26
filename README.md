@@ -27,7 +27,7 @@ This dashboard was built using the following tools and technologies:
 
 ## Explanation of Charts
 
-## Attrition by Education Field (Donut Chart)
+### Attrition by Education Field (Donut Chart)
 
 Shows the distribution of attrition across education backgrounds.
 **Insight:**

@@ -36,28 +36,28 @@ Shows the distribution of attrition across education backgrounds.  <br />
 
 ### 2. Attrition by Age (Bar Chart)
 
-Displays how many employees left based on age groups.
+Displays how many employees left based on age groups.  <br />
 **Insight:**
 1. Employees aged 26–35 have the highest attrition (116 employees). Younger employees (18–25) also have a significant number (44).
 2. This indicates that early-career professionals are more likely to leave, possibly for better opportunities.
 
 ### 3. Attrition by Salary Slab (Horizontal Bar Chart)
 
-Breaks down attrition by salary brackets.
+Breaks down attrition by salary brackets.  <br />
 **Insight:**
 1. Employees earning up to 5K salary have the highest attrition (163 employees). Attrition drops drastically as salary increases.
 2. This shows that low pay is a key driver of attrition.
 
 ### 4. Attrition by Years at Company (Line Chart)
 
-Tracks attrition across employee tenure.
+Tracks attrition across employee tenure.  <br />
 **Insight:** 
 1. Attrition is highest in the first 1–2 years (peaks at 23 employees in year 1). It reduces significantly in mid-tenure and slightly rises again around year 10.
 2. Suggests that new hires are most at risk of leaving if not properly engaged or onboarded.
 
 ### 5. Attrition by Job Role (Horizontal Bar Chart)
 
-Highlights which job roles face the most attrition.
+Highlights which job roles face the most attrition.  <br />
 **Insight:**
 1. Laboratory Technician (62)
 2. Sales Executive (57)
@@ -67,14 +67,14 @@ These roles show higher instability and may require tailored retention programs.
 
 ### 6. Attrition by Gender (Stacked Column Chart)
 
-Compares male vs female attrition.
+Compares male vs female attrition.  <br />
 **Insight:**
 1. Attrition is higher among males (140) compared to females (79).
 2. HR can explore whether job expectations, work-life balance, or industry norms are influencing this.
 
 ### 7. Attrition by Department & Job Role Matrix (Table)
 
-A detailed grid showing attrition counts across different departments and roles.
+A detailed grid showing attrition counts across different departments and roles.  <br />
 **Insight:**
 1. Laboratory Technicians (62) stand out in R&D.
 2. Sales Executives (57) in Sales show high attrition.
@@ -89,6 +89,6 @@ A detailed grid showing attrition counts across different departments and roles.
 
 ## Files
 
-HR_Analytics_Dashboard.pbix → Power BI file (not included here, assumed in project).
-HR_Analytics_Dashboard.png → Dashboard screenshot.
-README.md → Documentation file (this file).    
+1. HR_Analytics_Dashboard.pbix → Power BI file (not included here, assumed in project).
+2. HR_Analytics_Dashboard.png → Dashboard screenshot.
+3. README.md → Documentation file (this file).    
